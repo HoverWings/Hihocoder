@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1015.cpp" />
+    <ClCompile Include="1015_KMP算法.cpp" />
+    <ClCompile Include="1084_扩展KMP.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

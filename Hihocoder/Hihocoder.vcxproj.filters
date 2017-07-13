@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1015.cpp">
+    <ClCompile Include="1015_KMP算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1084_扩展KMP.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
