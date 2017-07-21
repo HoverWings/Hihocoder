@@ -1,5 +1,4 @@
 //DFS BFS 问题
-//这是一个图的搜索问题
 #include<cstdio>
 #include<iostream>
 
@@ -11,7 +10,7 @@ int main()
 {
 	int N, M, x, y;
 	cin >> N >> M >> x >> y;
-	//asduigasdgiuasgdiuasgdioudsa
+	
 
 	return 0;
 }
