@@ -11,6 +11,7 @@ int main()
 {
 	int N, M, x, y;
 	cin >> N >> M >> x >> y;
+	//asduigasdgiuasgdiuasgdioudsa
 
 	return 0;
 }
