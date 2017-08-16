@@ -15,7 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="1551_合并子目录.cpp">
+=======
+    <ClCompile Include="1320_压缩字符串.cpp">
+>>>>>>> origin/master
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

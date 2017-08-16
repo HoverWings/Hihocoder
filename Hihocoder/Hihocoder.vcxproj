@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="1551_合并子目录.cpp" />
+=======
+    <ClCompile Include="1320_压缩字符串.cpp" />
+>>>>>>> origin/master
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
